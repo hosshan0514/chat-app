@@ -12,6 +12,7 @@
 }
 .account-page .account-page__inner:after {
   clear: both;
+  content: "";
   display: block;
 }
 .account-page .account-page__header h2 {
